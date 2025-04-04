@@ -8,6 +8,7 @@ import (
 	_ "modernc.org/sqlite"
 )
 
+// test
 const (
 	ParcelStatusRegistered = "registered"
 	ParcelStatusSent       = "sent"
